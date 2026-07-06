@@ -50,7 +50,7 @@ function Navbar() {
 
     
       <div
-  onClick={() => window.location.href = "http://localhost:5174"}
+  onClick={() => window.location.href = "https://clothique-admin-blush.vercel.app"}
   className="hidden sm:block border border-gray-300 px-3 py-1 rounded-full text-gray-500 text-[11px] cursor-pointer"
 >
   Admin Panel
